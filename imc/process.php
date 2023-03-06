@@ -9,6 +9,7 @@
 ?>
 
 <meta charset="UTF-8" />
+<link rel="stylesheet" href="style.css" />
 <form id="form" action="peso.php" method="post">
     <label for="alt">
         Digite a sua altura:

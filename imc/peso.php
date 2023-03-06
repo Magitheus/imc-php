@@ -9,6 +9,7 @@
 ?>
 
 <meta charset="UTF-8" />
+<link rel="stylesheet" href="style.css" />
 <form id="form" action="sexo.php" method="post">
     <label for="peso">
         Digite o seu peso:

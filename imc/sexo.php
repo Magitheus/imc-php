@@ -9,6 +9,7 @@ echo 'Olá ' . $name;
 ?>
 
 <meta charset="UTF-8" />
+<link rel="stylesheet" href="style.css" />
 <form id="form" action="resultado.php" method="post">
     <fieldset>
         <legend>Selecione seu sexo:</legend>
